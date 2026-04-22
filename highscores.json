@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Lyan",
+    "score": 252034,
+    "wave": 9,
+    "combo": 87,
+    "result": "win"
+  },
+  {
+    "name": "nigger",
+    "score": 234288,
+    "wave": 8,
+    "combo": 99,
+    "result": "loss"
+  },
+  {
+    "name": "Jay",
+    "score": 201541,
+    "wave": 8,
+    "combo": 85,
+    "result": "quit"
+  },
+  {
+    "name": "Jedi",
+    "score": 193624,
+    "wave": 9,
+    "combo": 54,
+    "result": "win"
+  },
+  {
+    "name": "monica",
+    "score": 172937,
+    "wave": 9,
+    "combo": 64,
+    "result": "loss"
+  },
+  {
+    "name": "Lyan",
+    "score": 162881,
+    "wave": 5,
+    "combo": 82,
+    "result": "loss"
+  },
+  {
+    "name": "J",
+    "score": 92458,
+    "wave": 9,
+    "combo": 40,
+    "result": "win"
+  },
+  {
+    "name": "Jan",
+    "score": 63546,
+    "wave": 5,
+    "combo": 44,
+    "result": "quit"
+  },
+  {
+    "name": "Kind",
+    "score": 50304,
+    "wave": 6,
+    "combo": 27,
+    "result": "loss"
+  },
+  {
+    "name": "X",
+    "score": 15205,
+    "wave": 3,
+    "combo": 28,
+    "result": "loss"
+  }
+]
