@@ -123,3 +123,5 @@ bacteria_killed,final_body_hp,waves_survived,infection_spread_count,result,perk
 135,0.0,5,440,loss,Sprinter
 0,1500.0,0,0,quit,Gunner
 246,0.0,7,658,loss,Veteran
+0,1458.0,0,14,quit,Field Medic
+31,1371.0,2,49,quit,Sprinter
